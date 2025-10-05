@@ -178,3 +178,4 @@ resource/
 output/
 .env
 test
+.python-version
